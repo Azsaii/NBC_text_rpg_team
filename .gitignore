@@ -1,0 +1,62 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# ============================================================
+#  Visual Studio + C++ .gitignore
+# ============================================================
+ 
+# ------ 빌드 결과물 ------
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb          # 디버그 심볼
+*.ilk          # 증분 링크 파일
+*.obj
+*.o
+*.iobj
+*.ipdb
+ 
+# ------ 빌드 디렉터리 ------
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
+[Ww]in32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+out/
+x64/
+x86/
+ 
+# ------ Visual Studio 파일 ------
+.vs/            # VS 로컬 설정 (숨김 폴더)
+*.user          # 사용자별 프로젝트 설정
+*.suo           # 솔루션 사용자 옵션 (구버전)
+*.sdf           # SQL Server Compact DB (IntelliSense 캐시)
+*.VC.db
+*.VC.VC.opendb
+*.ncb
+*.aps
+*.cache
+ipch/           # IntelliSense 사전 컴파일 헤더 캐시
+*.opensdf
+ 
+# ------ 사전 컴파일 헤더 ------
+*.pch
+*.gch
