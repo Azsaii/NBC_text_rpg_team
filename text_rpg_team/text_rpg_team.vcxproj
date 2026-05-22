@@ -158,8 +158,14 @@
     <ClCompile Include="Item\HealthPotion.cpp" />
     <ClCompile Include="Item\Item.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="src\AttackBoost.cpp" />
+    <ClCompile Include="src\HealthPotion.cpp" />
+    <ClCompile Include="src\Item.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="include\AttackBoost.h" />
+    <ClInclude Include="include\HealthPotion.h" />
+    <ClInclude Include="include\Item.h" />
     <ClInclude Include="Item\AttackBoost.h" />
     <ClInclude Include="Item\HealthPotion.h" />
     <ClInclude Include="Item\Item.h" />
