@@ -18,36 +18,66 @@
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Monster.cpp">
+    <ClCompile Include="src\AttackBoost.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Character.cpp">
+    <ClCompile Include="src\HealthPotion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ShadowCatMonster.cpp">
+    <ClCompile Include="src\Item.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CrazyChihuahuaMonster.cpp">
+    <ClCompile Include="src\LogManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="HellRabbitMonster.cpp">
+    <ClCompile Include="src\Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\CrazyChihuahuaMonster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\HellRabbitMonster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Monster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ShadowCatMonster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Character.h">
+    <ClInclude Include="include\AttackBoost.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Monster.h">
+    <ClInclude Include="include\HealthPotion.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ShadowCatMonster.h">
+    <ClInclude Include="include\Item.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CrazyChihuahuaMonster.h">
+    <ClInclude Include="include\LogManager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="HellRabbitMonster.h">
+    <ClInclude Include="include\Character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\CrazyChihuahuaMonster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\HellRabbitMonster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Monster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ShadowCatMonster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
