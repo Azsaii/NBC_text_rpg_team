@@ -1,6 +1,8 @@
 #pragma once
 #include <string>
 
+class Player;
+
 class Item
 {
 protected:
@@ -8,5 +10,5 @@ protected:
 
 public:
     virtual std::string GetName();
-    virtual void Use();
+    virtual void Use(Player& player) = 0;
 };

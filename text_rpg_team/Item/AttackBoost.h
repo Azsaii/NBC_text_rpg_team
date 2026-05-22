@@ -8,5 +8,5 @@ private:
 
 public:
     std::string GetName() override;
-    void Use() override;
+    void Use(Player& player) override;
 };
